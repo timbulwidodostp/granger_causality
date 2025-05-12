@@ -1,6 +1,8 @@
 # granger_causality
 Granger causality test (multivariate) Use granger_causality (bruceR) With (In) R Software
 
+https://www.youtube.com/watch?v=M1v9apT_eNg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
